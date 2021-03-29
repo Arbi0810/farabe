@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="23px" viewBox="0 0 27 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>payment-methods/0-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="payment-methods/0-icon">
+            <path d="M5.5,1.5 L21.5,1.5" id="Path-10" stroke="#222222" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M4.51554944,4 L22.4844506,4 C23.0978074,4 23.6493706,4.37342642 23.8771656,4.94291399 L26.6771656,11.942914 C26.9848357,12.7120893 26.6107118,13.5850449 25.8415366,13.892715 C25.6643562,13.9635872 25.4752797,14 25.2844506,14 L1.71554944,14 C0.887122317,14 0.215549442,13.3284271 0.215549442,12.5 C0.215549442,12.3091709 0.251962241,12.1200944 0.322834406,11.942914 L3.12283441,4.94291399 C3.35062943,4.37342642 3.90219256,4 4.51554944,4 Z" id="Rectangle-32" fill="#222222"></path>
+            <polyline id="Path-11-Copy" stroke="#222222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="4.5 13 4.5 21.5 14.5 21.5 14.5 11 22.5 11 22.5 21.5"></polyline>
+        </g>
+    </g>
+</svg>

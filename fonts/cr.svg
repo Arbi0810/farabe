@@ -1,0 +1,15 @@
+<svg width="27" height="21" viewBox="0 0 27 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="27" height="21">
+<rect width="27" height="21" rx="4" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="0.75" y="0.75" width="25.5" height="19.5" rx="3.25" fill="white" stroke="#F2F2F2" stroke-width="1.5"/>
+<rect y="7" width="27" height="7" fill="#DE5454"/>
+<rect width="27" height="3.5" fill="#4B54BF"/>
+<rect y="17.5" width="27" height="3.5" fill="#4B54BF"/>
+</g>
+<ellipse cx="6" cy="10.5" rx="2" ry="2.5" fill="white"/>
+<circle cx="6" cy="11" r="2" fill="#DEB754"/>
+<ellipse cx="6" cy="10.5" rx="1.5" ry="2" fill="#45B5ED"/>
+<circle cx="6" cy="11" r="1" fill="#439766"/>
+</svg>

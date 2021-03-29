@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/search-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons/search-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#ffffff" stroke-width="3" transform="translate(10.908117, 10.313708) rotate(45.000000) translate(-10.908117, -10.313708) " cx="10.9081169" cy="10.3137085" r="8"></circle>
+        <rect id="Rectangle-4" fill="#ffffff" transform="translate(19.954058, 18.859650) rotate(45.000000) translate(-19.954058, -18.859650) " x="14.4540585" y="17.35965" width="11" height="3" rx="1.5"></rect>
+    </g>
+</svg>

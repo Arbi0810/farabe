@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="22px" viewBox="0 0 28 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dropdown-dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons/dropdown-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group-26" transform="translate(2.000000, 1.000000)" stroke="#222222" stroke-width="3">
+            <g id="Group-25" transform="translate(7.000000, 0.000000)">
+                <polyline id="Path-6-Copy" stroke-linejoin="round" transform="translate(5.464466, 9.048026) rotate(45.000000) translate(-5.464466, -9.048026) " points="8.67157288 5.84091932 7.96446609 11.5480261 2.25735931 12.2551329"></polyline>
+                <path d="M11.0124922,7 L-0.5,7" id="Path-22" transform="translate(5.500000, 7.000000) rotate(90.000000) translate(-5.500000, -7.000000) "></path>
+            </g>
+            <path d="M0.5,11.5 L0.5,16.5178344 C0.5,17.6224039 1.3954305,18.5178344 2.5,18.5178344 L21.5042267,18.5178344 C22.6087962,18.5178344 23.5042267,17.6224039 23.5042267,16.5178344 L23.5042267,11.5" id="Path-24" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

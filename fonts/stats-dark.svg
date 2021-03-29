@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/stats-dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons/stats-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)" fill="#222222">
+            <rect id="Rectangle-55" x="0" y="11" width="3" height="7" rx="1.5"></rect>
+            <rect id="Rectangle-55" x="5" y="5" width="3" height="13" rx="1.5"></rect>
+            <rect id="Rectangle-55" x="10" y="0" width="3" height="18" rx="1.5"></rect>
+            <rect id="Rectangle-55" x="15" y="8" width="3" height="10" rx="1.5"></rect>
+        </g>
+    </g>
+</svg>

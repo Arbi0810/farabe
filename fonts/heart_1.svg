@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/heart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website-assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/dark/heart" transform="translate(-7.000000, -8.000000)" fill="#222222">
+            <g id="Group-6" transform="translate(7.000000, 8.000000)">
+                <path d="M8,2.86195819 C8.66256038,1.467935 10.1191606,0.5 11.8095238,0.5 C14.1238599,0.5 16,2.31444499 16,4.55263158 C16,7.74561404 13.3333333,11.0614035 8,14.5 C2.66666667,11.0614035 0,7.74561404 0,4.55263158 C1.65330917e-16,2.31442496 1.8761401,0.5 4.19047619,0.5 C5.88083936,0.5 7.33743962,1.467935 8,2.86195819 Z" id="Path" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

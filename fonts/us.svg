@@ -1,0 +1,33 @@
+<svg width="28" height="21" viewBox="0 0 28 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="0" width="27" height="21">
+<rect x="1" width="27" height="21" rx="4" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="1" width="27" height="21" rx="4" fill="white"/>
+<rect x="1" width="27" height="1.61538" fill="#DE5454"/>
+<rect x="1" y="3.23077" width="27" height="1.61538" fill="#DE5454"/>
+<rect x="1" y="6.46155" width="27" height="1.61538" fill="#DE5454"/>
+<rect x="1" y="9.69232" width="27" height="1.61538" fill="#DE5454"/>
+<rect x="1" y="12.9231" width="27" height="1.61538" fill="#DE5454"/>
+<rect x="1" y="16.1538" width="27" height="1.61538" fill="#DE5454"/>
+<rect x="1" y="19.3846" width="27" height="1.61538" fill="#DE5454"/>
+<rect x="1.75" y="0.75" width="25.5" height="19.5" rx="3.25" stroke="#DE5454" stroke-opacity="0.15" stroke-width="1.5"/>
+<rect x="1" width="14.8385" height="11.5" fill="#32407E"/>
+</g>
+<circle cx="3.5468" cy="2.00984" r="1.00984" fill="white"/>
+<circle cx="7.5862" cy="2.00984" r="1.00984" fill="white"/>
+<circle cx="11.6255" cy="2.00984" r="1.00984" fill="white"/>
+<circle cx="15.6649" cy="2.00984" r="1.00984" fill="white" fill-opacity="0.5"/>
+<circle cx="3.5468" cy="6.99672" r="1.00984" fill="white"/>
+<circle cx="7.5862" cy="6.99672" r="1.00984" fill="white"/>
+<circle cx="11.6255" cy="6.99672" r="1.00984" fill="white"/>
+<circle cx="15.6649" cy="6.99672" r="1.00984" fill="white" fill-opacity="0.5"/>
+<circle cx="1.43984" cy="4.50328" r="1.00984" fill="white" fill-opacity="0.5"/>
+<circle cx="5.4792" cy="4.50328" r="1.00984" fill="white"/>
+<circle cx="9.51854" cy="4.50328" r="1.00984" fill="white"/>
+<circle cx="13.5579" cy="4.50328" r="1.00984" fill="white"/>
+<circle cx="1.43984" cy="9.49013" r="1.00984" fill="white" fill-opacity="0.5"/>
+<circle cx="5.4792" cy="9.49013" r="1.00984" fill="white"/>
+<circle cx="9.51854" cy="9.49013" r="1.00984" fill="white"/>
+<circle cx="13.5579" cy="9.49013" r="1.00984" fill="white"/>
+</svg>

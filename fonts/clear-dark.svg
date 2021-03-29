@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="11px" viewBox="0 0 11 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/clear-dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons/clear-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group-2" transform="translate(5.363961, 5.363961) rotate(45.000000) translate(-5.363961, -5.363961) translate(0.863961, 0.863961)" stroke="#222222" stroke-width="3">
+            <g id="Group">
+                <path d="M4.53553391,0 L4.53553391,9" id="Path-23"></path>
+                <path d="M0,4.5 L9,4.5" id="Path-23"></path>
+            </g>
+        </g>
+    </g>
+</svg>

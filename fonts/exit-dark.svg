@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="25px" viewBox="0 0 26 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/exit-dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons/exit-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <polyline id="Path-6-Copy" stroke="#222222" stroke-width="3" stroke-linejoin="round" transform="translate(19.535534, 12.535534) rotate(-45.000000) translate(-19.535534, -12.535534) " points="22.7426407 9.32842712 22.0355339 15.0355339 16.3284271 15.7426407"></polyline>
+        <path d="M13.5,17.5 L13.5,19.5 C13.5,20.0522847 13.0522847,20.5 12.5,20.5 L5,20.5 L5,4.5 L12.5,4.5 C13.0522847,4.5 13.5,4.94771525 13.5,5.5 L13.5,7.5" id="Rectangle-56" stroke="#222222" stroke-width="3"></path>
+        <path d="M23,12.5 L14.5,12.5" id="Path-22" stroke="#222222" stroke-width="3"></path>
+        <polygon id="Rectangle-57" stroke="#222222" stroke-width="3" fill="#222222" stroke-linejoin="round" points="2.5341826 4.51914336 7.5 1.6240526 7.5 23.5 2.5341826 20.4808566"></polygon>
+    </g>
+</svg>
